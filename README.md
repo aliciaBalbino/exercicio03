@@ -7,3 +7,5 @@ conjunto com o motor de templates (Thymeleaf). Ao usar o método GET e retornar 
 o Spring não imprime a palavra na tela; em vez disso, ele realiza uma busca na pasta de recursos e renderiza 
 o arquivo painel.html completo. Isso demonstra como o protocolo HTTP pode ser usado para entregar interfaces 
 inteiras ao usuário.
+
+Usei as dependências: Spring Web Web, Spring Boot DevTools e Thymeleaf.
